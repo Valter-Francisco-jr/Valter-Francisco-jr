@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valterr.jr/)
 
 
-![Valter Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=Valter-Francisco-jr&show_icons=true&theme=merko) 
+![Valter Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=Valter-Francisco-jr&show_icons=true&theme=tokyonight) 
 
 ### Tipos de ferramentas que utilizo
 
