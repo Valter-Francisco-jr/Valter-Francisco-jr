@@ -29,4 +29,5 @@
 <img align="center" alt="vscode" src="https://img.shields.io/badge/VS%20-Visual Studio Code-1f425f.svg">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT%20-GitHub-1f425f.svg">
 <img align="center" alt="git" src="https://img.shields.io/badge/UX/UI%20-Figma-1f425f.svg">
+<img align="right" alt="gif" height="100" src="https://imgur.com/Xpqm0I4.gif">
 </div>
