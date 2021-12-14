@@ -31,3 +31,5 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/UX/UI%20-Figma-1f425f.svg">
 <img align="right" alt="gif" height="100" src="https://imgur.com/Xpqm0I4.gif">
 </div>
+
+![Snake animation](https://github.com/Valter-Francisco-jr/Valter-Francisco-jr/blob/output/github-contribution-grid-snake.svg)
