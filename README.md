@@ -35,3 +35,4 @@
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valterr.jr/)
   
 ![Snake animation](https://github.com/Valter-Francisco-jr/Valter-Francisco-jr/blob/output/github-contribution-grid-snake.svg)
+
