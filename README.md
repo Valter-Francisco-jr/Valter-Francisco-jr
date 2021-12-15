@@ -1,4 +1,4 @@
-### Olá! Eu sou o Valter Francisco, desenvolvedor Front-End!
+### Olá! Eu sou o Valter Francisco, desenvolvedor front-end!
 <br>
 <div align="center">
 <a href="https://github.com/valter-francisco-jr">
