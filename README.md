@@ -23,6 +23,7 @@
   <img align="center" alt="gitHub"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="right" alt="gif" height="100" src="https://imgur.com/Xpqm0I4.gif">
 </div>
+<br>
   
 [![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://meu-portfolio-valter-francisco.netlify.app/)](https://meu-portfolio-valter-francisco.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valter-francisco2208/)
