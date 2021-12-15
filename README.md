@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Valter Francisco 👋
-
 <br>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valter-francisco-jr&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter-Francisco-jr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/valter-francisco-jr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valter-francisco-jr&show_icons=true&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter-Francisco-jr&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 
@@ -24,7 +23,6 @@
 
 
 <div style="display: inline_block"><br/>
-
 <img align="center" alt="vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="git"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -35,5 +33,5 @@
 [![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://meu-portfolio-valter-francisco.netlify.app/)](https://meu-portfolio-valter-francisco.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valter-francisco2208/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valterr.jr/)
-
+  
 ![Snake animation](https://github.com/Valter-Francisco-jr/Valter-Francisco-jr/blob/output/github-contribution-grid-snake.svg)
