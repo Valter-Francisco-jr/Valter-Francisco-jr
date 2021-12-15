@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Valter Francisco, desenvolvedor front-end!
 <div align="center">
 <a href="https://github.com/valter-francisco-jr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valter-francisco-jr&show_icons=true&theme=merko">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter-Francisco-jr&layout=compact&langs_count=7&theme=merko"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=valter-francisco-jr&show_icons=true&theme=merko">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter-Francisco-jr&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 ### Tipos de ferramentas que utilizo
