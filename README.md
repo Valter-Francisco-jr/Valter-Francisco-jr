@@ -24,7 +24,7 @@
 <br>
   
 [![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://meu-portfolio-valter-francisco.netlify.app/)](https://meu-portfolio-valter-francisco.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valter-francisco2208/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valter-araujo22/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valterr.jr/)
   
 ![Snake animation](https://github.com/Valter-Francisco-jr/Valter-Francisco-jr/blob/output/github-contribution-grid-snake.svg)
