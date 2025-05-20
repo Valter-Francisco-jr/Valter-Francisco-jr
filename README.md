@@ -1,4 +1,4 @@
-### Olá! Eu sou o Valter Francisco, desenvolvedor web front-end!
+### Olá! Eu sou o Valter Francisco, desenvolvedor full-stack!
 <div align="center">
 <a href="https://github.com/valter-francisco-jr">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valter-francisco-jr&show_icons=true&theme=merko">
